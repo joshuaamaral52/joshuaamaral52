@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuaamaral52
 - 👀 I’m interested in Linux distros of all things
-- 🌱 I’m currently learning anything and everything I can
+- 🌱 I’m currently learning Next.js & GraalVM
 - 💞️ I’m looking to collaborate on open-source web development projects
 - 📫 How to reach me - @joshuaamaral52
 
